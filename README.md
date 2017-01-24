@@ -13,8 +13,6 @@ Software for the Driverless Car 2017.
 ### Contents
 1. [Install Prerequisites](#1-install-prerequisites)
 2. [Clone repository](#2-clone-or-fork-repositories)
-3. [Install Dependencies]
-
 
 ### 1. Install Prerequisites
 1. __Install [Ubuntu 14.04](http://www.ubuntu.com)__
