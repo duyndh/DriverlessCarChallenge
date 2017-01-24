@@ -1,6 +1,6 @@
 # Digital Race
 
-![alt text](doc/digitalrace.jpg "MagicCar")
+[![N|Solid](https://cuocduaso.fpt.com.vn/sites/default/files/styles/gallery_image_300x220/public/media-youtube/fk8ZaMxiRQQ.jpg?itok=9ZvryNrn)](https://cuocduaso.fpt.com.vn)
 
 Software for the Driverless Car 2017.
 
@@ -13,7 +13,7 @@ Software for the Driverless Car 2017.
 ### Contents
 1. [Install Prerequisites](#1-install-prerequisites)
 2. [Clone repository](#2-clone-or-fork-repositories)
-3. [Install Dependencies](#3
+3. [Install Dependencies]
 
 
 ### 1. Install Prerequisites
@@ -61,26 +61,6 @@ $ sudo i2cdetect -y -r 1
 Set time and date first
   
 ### 2. Clone or Fork Repositories
-
-
-### 3. Install AutoRally ROS Dependencies
-
-
-
-### 4. Testing & Running
-Test Camera
-$ cd ‘/home/ubuntu/Ubuntu/carControl_astra/openni_opencv/src’
-$ cmake .
-$ make
-$ ./test-openni-opencv
-
-Test Servo, I2C 
-$ cd ‘/home/ubuntu/Ubuntu/JHPWMDriver/example
-
-
-$ make
-$ sudo ./servoExample
-
 
 
 
