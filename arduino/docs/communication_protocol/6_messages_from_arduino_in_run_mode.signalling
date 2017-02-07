@@ -26,4 +26,11 @@ A->J:b0\\n;
 A--A:Button released;
 A->J:b1\\n;
 
+vspace 25;
+---: Arduino sends debug message;
+vspace 25;
+A->J:d<Message>\\n;
+
+
+
 vspace 35;
