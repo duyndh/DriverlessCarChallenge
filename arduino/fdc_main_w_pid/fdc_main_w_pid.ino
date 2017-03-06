@@ -26,16 +26,20 @@
 
 /** ===== FILE & SKETCH DESCRIPTION ===========================================
   * @file     fdc_main_w_pid.ino
-  * @version  v1.0 2017/01/25
+  * @version  v1.0.1 2017/03/03
   *
   * @about    Main Arduino firmware for FPT Driverless Car, with PID implemented
+  * 
+  *           Requirement:
+  *             The following libraries installed in Arduino Library Manager:
+  *               Encoder by Paul Stoffregen
+  *           
   *           Behavior: 
   *             Refer to accompanied documentation files.
   * 
   */
 
 
-#include <TimerOne.h>
 #include <Servo.h>
 #include <Encoder.h>
 
