@@ -13,7 +13,7 @@ A--A:Encoder count sending\ncurrently DISABLED;
 
 vspace 25;
 
-J->A:t2<control value>\\n;
+J->A:t2\\n;
 A--A:Enable encoder count sending;
 A->J:at2\\n\n(Acknowledge \"t2\");
 
