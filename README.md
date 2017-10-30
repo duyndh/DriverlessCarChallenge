@@ -1,6 +1,13 @@
 # Digital Race
-
-[![N|Solid](https://cuocduaso.fpt.com.vn/sites/default/files/styles/gallery_image_300x220/public/media-youtube/fk8ZaMxiRQQ.jpg?itok=9ZvryNrn)](https://cuocduaso.fpt.com.vn)
+## Source code from 2016-2017 finalists
+1. [Học viện kỹ thuật quân sự](https://github.com/fpt-corp/DriverlessCarChallenge_MTARacer)
+2. [Đại học Bách Khoa TP.HCM](https://github.com/fpt-corp/DriverlessCarChallenge_CDIO)
+3. [Đại học Lạc Hồng](https://github.com/fpt-corp/DriverlessCarChallenge_LHURacing)
+4. [Đại học FPT](https://github.com/fpt-corp/DriverlessCarChallenge_AlphaOne)
+5. [Đại học Công nghệ - ĐHQG Hà Nội](https://github.com/fpt-corp/DriverlessCarChallenge_TechColor)
+6. [Đại học Công nghệ thông tin - ĐHQG TP.HCM](https://github.com/fpt-corp/DriverlessCarChallenge_SeBoys)
+7. [Học Viện Công nghệ Bưu chính Viễn thông](https://github.com/fpt-corp/DriverlessCarChallenge_PTIT)
+8. [Đại học Bách Khoa Hà Nội](https://github.com/fpt-corp/DriverlessCarChallenge_BKAKid)
 
 Software for the Driverless Car 2017.
 
